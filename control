@@ -1,0 +1,9 @@
+Package: com.mathieubolard.lsbattery
+Name: LSBattery
+Depends: mobilesubstrate
+Version: 0.0.3
+Architecture: iphoneos-arm
+Description: Display the charging battery on your lockscreen ! Or replace the clock/slider text by the battery level.
+Maintainer: Mathieu Bolard (mattlawer) <mattlawer08@gmail.com>
+Author: Mathieu Bolard (mattlawer) <mattlawer08@gmail.com>
+Section: Tweaks
